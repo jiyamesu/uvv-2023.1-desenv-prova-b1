@@ -1,0 +1,12 @@
+[
+    {
+        "img": "./assets/flask-vial-solid.svg",
+        "nome": "Poção",
+        "descricao": "Caso você esteja com XP baixo, adiciona 2."
+    },
+    {
+        "img": "./assets/heart-solid.svg",
+        "nome": "Life",
+        "descricao": "Restaura todo seu HP. Se usado em batalhas, perde 4 de Honra e 4 de Glória."
+    }
+]
